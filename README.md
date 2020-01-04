@@ -37,4 +37,5 @@
 - 1 Solderless MB-102 Breadboard 830 Tie Points For Arduino – 4,5 ευρώ
 - 40pcs Male to Female Dupont Wires/Cables for Arduino – 3,5 ευρώ
 - 40pcs Male to Male Dupont Wires/Cables for Arduino (20cm) (M/M) – 3,5 ευρώ
+
 **Συνολικό κόστος ηλεκτρονικών: 60 ευρώ**
