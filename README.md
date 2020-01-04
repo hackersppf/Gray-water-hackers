@@ -29,12 +29,12 @@
 Η τροφοδοσία των αστικών κήπων και πάρκων θα γίνεται αυτόματα με αισθητήρες υγρασίας εδάφους που θα ενεργοποιούν ή θα απενεργοποιούν τις αντλίες, ενώ η δεξαμενή της πυροσβεστικής θα ελέγχεται από αισθητήρα στάθμης νερού για να παίρνει ή όχι νερό από την κεντρική δεξαμενή.
 
 ## Λίστα υλικών και προτεινόμενο κόστος
-1 x Arduino UNO R3 ATmega328P Board + USB Cable – 7,5 ευρώ
-2 x Water Turbidity Sensor Moule For Arduino – 25 ευρώ
-1 x Water Level Sensor – 1,5 ευρώ
-1 x Soil Hygrometer / Moisture Detection Module for Arduino – 2,5 ευρώ
-2 x Submersible water pump for Arduino 3-6V – 12 ευρώ
-1 Solderless MB-102 Breadboard 830 Tie Points For Arduino – 4,5 ευρώ
-40pcs Male to Female Dupont Wires/Cables for Arduino – 3,5 ευρώ
-40pcs Male to Male Dupont Wires/Cables for Arduino (20cm) (M/M) – 3,5 ευρώ
+- 1 x Arduino UNO R3 ATmega328P Board + USB Cable – 7,5 ευρώ
+- 2 x Water Turbidity Sensor Moule For Arduino – 25 ευρώ
+- 1 x Water Level Sensor – 1,5 ευρώ
+- 1 x Soil Hygrometer / Moisture Detection Module for Arduino – 2,5 ευρώ
+- 2 x Submersible water pump for Arduino 3-6V – 12 ευρώ
+- 1 Solderless MB-102 Breadboard 830 Tie Points For Arduino – 4,5 ευρώ
+- 40pcs Male to Female Dupont Wires/Cables for Arduino – 3,5 ευρώ
+- 40pcs Male to Male Dupont Wires/Cables for Arduino (20cm) (M/M) – 3,5 ευρώ
 **Συνολικό κόστος ηλεκτρονικών: 60 ευρώ**
